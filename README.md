@@ -1,4 +1,4 @@
-#Tribute Page
+# Tribute Page
 
 ---
 
@@ -6,13 +6,13 @@ First of five freeCodeCamp web programming projects to earn a Responsive Web Des
 
 ---
 
-##The Subject
+## The Subject
 
 I have chosen Elon Musk for my attribute page. For me, Elon Musk is one of the biggest visionary entrepenuor of our times. I remember thinking ten years ago about how will be impossible for an electric car to be as powerful as a petrol one (I was wrong). Today, I believe in his Neuralink project and, in a way, I see it as the future of the smartphone.
 
 Building this page I came to realize the early age at which Elon Musk started into the web development world and, should be a clear example for us as a society to nurture technologically our young generation for a brighter future.
 
-##The Development
+## The Development
 
 The main focus of this project was about HTML semantic, responsive image, and the use of selectors in the CSS file.
 
@@ -20,7 +20,7 @@ At the end of this project, I am aware of the importance of HTML semantic and, s
 
 When it comes to CSS I found that we can reach the same result using different approaches. For instance: we can center or elements in the body tag (since the page is mostly aligned center) or set them up individually in each section of our project.
 
-###Image Responsive
+### Image Responsive
 
 This was the most challenging part since I wanted to explore two solutions that could pass the freeCodeCamp test, this [article](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/ 'How to Center Anything with CSS - Align a Div, Text, and More') helped me.
 
