@@ -8,7 +8,7 @@ First of five freeCodeCamp web programming projects to earn a Responsive Web Des
 
 ## The Subject
 
-I have chosen Elon Musk for my attribute page. For me, Elon Musk is one of the biggest visionary entrepenuor of our times. I remember thinking ten years ago about how will be impossible for an electric car to be as powerful as a petrol one (I was wrong). Today, I believe in his Neuralink project and, in a way, I see it as the future of the smartphone.
+I have chosen Elon Musk for my [Tribute Page](https://schoolofcode.github.io/w0d0_precourse-challenge-Luis0lo/ 'Elon Musk tribute page'). For me, Elon Musk is one of the biggest visionary entrepenuor of our times. I remember thinking ten years ago about how will be impossible for an electric car to be as powerful as a petrol one (I was wrong). Today, I believe in his Neuralink project and, in a way, I see it as the future of the smartphone.
 
 Building this page I came to realize the early age at which Elon Musk started into the web development world and, should be a clear example for us as a society to nurture technologically our young generation for a brighter future.
 
